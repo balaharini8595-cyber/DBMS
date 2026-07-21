@@ -72,3 +72,44 @@ The following documents were prepared for Week 2:
 
 The completion of Week 2 provides a clear understanding of the database structure and the relationships between entities. This analysis serves as the foundation for creating the Entity Relationship Diagram (ERD), normalization, SQL table creation, and database implementation in the next stages of the project. The well-defined entity structure ensures data consistency, minimizes redundancy, and supports efficient management of the E-Commerce Order Management Database System.
 
+WEEK 3:
+
+E-Commerce Order Management Database System
+
+ Project Title
+Entity Relationship (ER) Diagram and Relational Schema Design
+
+Project Description
+
+In Week 3, the conceptual database design created during the previous week was transformed into a logical database design for the E-Commerce Order Management Database System. The primary objective of this activity was to design a complete Entity Relationship (ER) Diagram and convert it into a Relational Schema that can be implemented in a relational database management system.
+
+The ER Diagram was designed by identifying all the major entities involved in the system, including Customer, Order, Product, Category, Order_Item, Payment, and Shipment. Each entity was represented with its attributes, and the Primary Keys (PK) were identified to uniquely distinguish every record. Appropriate Foreign Keys (FK) were assigned to establish relationships between entities and maintain referential integrity.
+
+Different relationships such as One-to-One (1:1) and One-to-Many (1:N) were defined between the entities. The cardinality and participation constraints were also considered to accurately represent how different entities interact with each other within the database.
+
+After completing the ER Diagram, it was converted into a **Relational Schema** by mapping each entity into a relational table. The schema includes table names, attributes, primary keys, and foreign keys, ensuring that all relationships from the ER model are correctly represented in the logical database design.
+
+An **ER Design Report** was also prepared to explain the overall database design, objectives, entities, relationships, cardinality, primary keys, foreign keys, and the advantages of the proposed database structure. This documentation provides a clear understanding of the database model and serves as a reference for future implementation.
+
+Overall, Week 3 focused on creating a well-structured database design that minimizes data redundancy, improves data consistency, maintains referential integrity, and provides a scalable foundation for implementing the E-Commerce Order Management Database System in the upcoming weeks.
+
+ Files Included
+
+- **ER_Diagram.png** – Entity Relationship Diagram showing entities, attributes, keys, relationships, and cardinality.
+- **Relational_Schema.pdf** – Logical database schema containing all tables with primary and foreign keys.
+- **ER_Design_Report.pdf** – Detailed report explaining the ER Diagram, relationships, and relational schema.
+- **README.md** – Documentation describing the Week 3 activity and project details.
+
+ Outcome
+
+- Designed a complete Entity Relationship (ER) Diagram.
+- Identified entities, attributes, primary keys, and foreign keys.
+- Defined relationships, cardinality, and participation constraints.
+- Converted the ER model into a Relational Schema.
+- Prepared the required documentation for the database design.
+- Successfully completed the Week 3 deliverables for the E-Commerce Order Management Database System.
+
+Name:B.BalaHarini
+Class:2 BCA Batch-II
+Kamaraj College
+
